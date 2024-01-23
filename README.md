@@ -15,13 +15,13 @@ This app makes searching for jobs super easy! All you need is a stable connectio
 
 ## Software Process Team Project (30%) Winter 2023
 
-- Liam Daigle(LiamDaigle, Strengths: Django, Fullstack Development, MySQL, Javascript) : Backend Dev
-- Simon Foo(sfhelmet, Strengths: Database, Python) : Software Architect
-- Clara Gagnon(clarag02, Strengths: Web Development, OOP) : UX Designer
-- Roger Daniel Matute(DanielC2001, Strengths: Web Development, Fullstack Development, ReactJS, Javascript) : Frontend Developer
-- Arthur Mosnier (heyitsarthur,  Strengths: Web Development, Java) : Frontend Developer
-- Fadi Nimer (Lukateki) | Strengths : Front-end (Javascript, React.js), OOP (Java, Python), Agile, GitHub | Roles : Scrum Master, Frontend Developer
-
+- Liam Daigle
+- Simon Foo
+- Clara Gagnon
+- Roger Daniel Matute
+- Arthur Mosnier 
+- Fadi Nimer
+  
 ## Core Features:
 - Search for jobs filter results to find a fitting job for a candidates qualifications.
 - Post job applications and have them accessible to qualified candidates.
@@ -42,5 +42,5 @@ resume; browse for job offers; apply for those postings
 ![image](https://user-images.githubusercontent.com/87549228/216638360-7f8fb2bc-8ae8-458a-9c85-b17f189707c3.png)
 
 
-#### TA github: bluestberries
+
 
